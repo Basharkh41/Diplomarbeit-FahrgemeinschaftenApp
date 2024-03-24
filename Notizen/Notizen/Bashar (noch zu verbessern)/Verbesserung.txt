@@ -1,0 +1,33 @@
+app designer
+https://community.neptune-software.com/documentation/development/documentation/app-designer-fl3ormgh
+
+
+
+
+table defintiion
+https://docs.neptune-software.com/neptune-dxp-open-edition/23/cockpit-overview/table-definition.html#:~:text=A%20table%20definition%20contains%20a,to%20add%20and%20view%20data.
+
+table browser
+https://docs.neptune-software.com/neptune-dxp-open-edition/23/cockpit-overview/table-browser.html
+
+api desginger
+https://docs.neptune-software.com/neptune-dxp-open-edition/23/cockpit-overview/api-designer.html
+
+
+
+connector
+https://docs.neptune-software.com/neptune-dxp-open-edition/23/cockpit-overview/connectors.html
+
+visual paradigm sitemap
+https://online.visual-paradigm.com/app/diagrams/#LDiplomarbeit
+
+
+datenbankschema
+https://app.creately.com/d/cdmdyu35psm/edit
+
+https://docs.neptune.ai/open-edition/
+https://www.dataversity.net/the-most-commonly-used-database-datatypes/
+
+
+problemstellung motivation
+https://www.getzner.at/umwelt-und-nachhaltigkeit zugegriffen 24.03.2024
